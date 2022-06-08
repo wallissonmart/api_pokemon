@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+}
+
+.GrForms {
+  font-size: 1.6rem;
+  cursor: pointer;
+}
+
+.GrForms:hover {
+  background-color: rgb(221, 224, 224);
+  border-radius: 4rem;
+}
+
+.FaSearch {
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.FaSearch:hover {
+  color: rgb(66, 65, 65);
+}
