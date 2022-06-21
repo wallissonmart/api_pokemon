@@ -1,5 +1,5 @@
 <h1 align="left">API Pokémon</h1>
-<p align="left">Aplicação para visualisar ou pesquisar pokémons junto com suas características</p>
+<p align="left">Aplicação para visualizar ou pesquisar pokémons junto com suas características</p>
 
 <p align="left"> •
  <a href="#status">Status</a> •
